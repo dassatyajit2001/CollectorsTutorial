@@ -6,8 +6,7 @@ import java.util.List;
 import java.util.function.Function;
 import static java.util.stream.Collectors.*;
 
-//Exploring Collectors by Venkat Subramaniam
-//https://www.youtube.com/watch?v=pGroX3gmeP8
+
 //Streams are lazy evaluator
 
 //Java has 2 reduce function: reduce and collect
